@@ -1,0 +1,12 @@
+/* Animation for the background */
+@keyframes backgroundAnimation {
+    0% {
+      background-color: #f2f2f2; /* Starting background color */
+    }
+    50% {
+      background-color: #007bff; /* Midway background color */
+    }
+    100% {
+      background-color: #f2f2f2; /* Ending background color */
+    }
+  }
